@@ -1,0 +1,210 @@
+subjectId						2
+	ID of subject
+								1..30
+			
+activityName					18
+	Activity tracked
+								LAYING
+								SITTING
+								STANDING
+								WALKING
+								WALKING_DOWNSTAIRS
+								WALKING_UPSTAIRS
+				
+tBodyAcc-mean()-X				
+	Mean value for time domain body acceleration signal (X-axis)
+
+tBodyAcc-mean()-Y
+	Mean value for time domain body acceleration signal (Y-axis)
+
+tBodyAcc-mean()-Z
+	Mean value for time domain body acceleration signal (Z-axis)
+
+tBodyAcc-std()-X
+	Standard deviation for time domain body acceleration signal (X-axis)
+	
+tBodyAcc-std()-Y
+	Standard deviation for time domain body acceleration signal (Y-axis)
+
+tBodyAcc-std()-Z
+	Standard deviation for time domain body acceleration signal (Z-axis)
+
+tGravityAcc-mean()-X
+	Mean value for time domain gravity acceleration signal (X-axis)
+
+tGravityAcc-mean()-Y
+	Mean value for time domain gravity acceleration signal (Y-axis)
+
+tGravityAcc-mean()-Z
+	Mean value for time domain gravity acceleration signal (Z-axis)
+
+tGravityAcc-std()-X
+	Standard deviation for time domain gravity acceleration signal (X-axis)
+
+tGravityAcc-std()-Y
+	Standard deviation for time domain gravity acceleration signal (Y-axis)
+
+tGravityAcc-std()-Z
+	Standard deviation for time domain gravity acceleration signal (Z-axis)
+
+tBodyAccJerk-mean()-X
+	Mean value for time domain Jerk body acceleration signal (X-axis)
+
+tBodyAccJerk-mean()-Y
+	Mean value for time domain Jerk body acceleration signal (Y-axis)
+
+tBodyAccJerk-mean()-Z
+	Mean value for time domain Jerk body acceleration signal (Z-axis)
+
+tBodyAccJerk-std()-X
+	Standard deviation for time domain Jerk body acceleration signal (X-axis)
+
+tBodyAccJerk-std()-Y
+	Standard deviation for time domain Jerk body acceleration signal (Y-axis)
+
+tBodyAccJerk-std()-Z
+	Standard deviation for time domain Jerk body acceleration signal (Z-axis)
+
+tBodyGyro-mean()-X
+	Mean value for time domain body gyposcope signal (X-axis)
+
+tBodyGyro-mean()-Y
+	Mean value for time domain body gyposcope signal (Y-axis)
+
+tBodyGyro-mean()-Z
+	Mean value for time domain body gyposcope signal (Z-axis)
+
+tBodyGyro-std()-X
+	Standard deviation for time domain body gyposcope signal (X-axis)
+
+tBodyGyro-std()-Y
+	Standard deviation for time domain body gyposcope signal (Y-axis)
+
+tBodyGyro-std()-Z
+	Standard deviation for time domain body gyposcope signal (Z-axis)
+
+tBodyGyroJerk-mean()-X	
+	Mean value for time domain Jerk body gyposcope signal (X-axis)
+
+tBodyGyroJerk-mean()-Y
+	Mean value for time domain Jerk body gyposcope signal (Y-axis)
+
+tBodyGyroJerk-mean()-Z
+	Mean value for time domain Jerk body gyposcope signal (Z-axis)
+
+tBodyGyroJerk-std()-X
+	Standard deviation for time domain Jerk body gyposcope signal (X-axis)
+
+tBodyGyroJerk-std()-Y
+	Standard deviation for time domain Jerk body gyposcope signal (Y-axis)
+
+tBodyGyroJerk-std()-Z
+	Standard deviation for time domain Jerk body gyposcope signal (Z-axis)
+
+tBodyAccMag-mean()
+	Mean value for magnitude of time domain body acceleration signal
+
+tBodyAccMag-std()
+	Standard deviation for magnitude of time domain body acceleration signal
+
+tGravityAccMag-mean()
+	Mean value for magnitude of time domain gravity acceleration signal
+
+tGravityAccMag-std()
+	Standard deviation for magnitude of time domain gravity acceleration signal
+
+tBodyAccJerkMag-mean()
+	Mean value for magnitude of time domain Jerk body acceleration signal
+
+tBodyAccJerkMag-std()
+	Standard deviation for magnitude of time domain Jerk body acceleration signal
+
+tBodyGyroMag-mean()
+	Mean value for magnitude of time domain body gyposcope signal
+
+tBodyGyroMag-std()
+	Standard deviation for magnitude of time domain body gyposcope signal
+
+tBodyGyroJerkMag-mean()	
+	Mean value for magnitude of time domain Jerk body gyposcope signal
+
+tBodyGyroJerkMag-std()
+	Standard deviation for magnitude of time domain Jerk body gyposcope signal
+
+fBodyAcc-mean()-X				
+	Mean value for frequency domain body acceleration signal (X-axis)
+
+fBodyAcc-mean()-Y
+	Mean value for frequency domain body acceleration signal (Y-axis)
+
+fBodyAcc-mean()-Z
+	Mean value for frequency domain body acceleration signal (Z-axis)
+
+fBodyAcc-std()-X
+	Standard deviation for frequency domain body acceleration signal (X-axis)
+	
+fBodyAcc-std()-Y
+	Standard deviation for frequency domain body acceleration signal (Y-axis)
+
+fBodyAcc-std()-Z
+	Standard deviation for frequency domain body acceleration signal (Z-axis)
+
+fBodyAccJerk-mean()-X
+	Mean value for frequency domain Jerk body acceleration signal (X-axis)
+
+fBodyAccJerk-mean()-Y
+	Mean value for frequency domain Jerk body acceleration signal (Y-axis)
+
+fBodyAccJerk-mean()-Z
+	Mean value for frequency domain Jerk body acceleration signal (Z-axis)
+
+fBodyAccJerk-std()-X
+	Standard deviation for frequency domain Jerk body acceleration signal (X-axis)
+
+fBodyAccJerk-std()-Y
+	Standard deviation for frequency domain Jerk body acceleration signal (Y-axis)
+
+fBodyAccJerk-std()-Z
+	Standard deviation for frequency domain Jerk body acceleration signal (Z-axis)
+
+fBodyGyro-mean()-X
+	Mean value for frequency domain body gyposcope signal (X-axis)
+
+fBodyGyro-mean()-Y
+	Mean value for frequency domain body gyposcope signal (Y-axis)
+
+fBodyGyro-mean()-Z
+	Mean value for frequency domain body gyposcope signal (Z-axis)
+
+fBodyGyro-std()-X
+	Standard deviation for frequency domain body gyposcope signal (X-axis)
+
+fBodyGyro-std()-Y
+	Standard deviation for frequency domain body gyposcope signal (Y-axis)
+
+fBodyGyro-std()-Z
+	Standard deviation for frequency domain body gyposcope signal (Z-axis)
+
+fBodyAccMag-mean()
+	Mean value for magnitude of frequency domain body acceleration signal
+
+fBodyAccMag-std()
+	Standard deviation for magnitude of frequency domain body acceleration signal
+
+fBodyBodyAccJerkMag-mean()
+	Mean value for magnitude of frequency domain Jerk body acceleration signal
+
+fBodyBodyAccJerkMag-std()
+	Standard deviation for magnitude of frequency domain Jerk body acceleration signal
+
+fBodyBodyGyroMag-mean()
+	Mean value for magnitude of frequency domain body gyposcope signal
+
+fBodyBodyGyroMag-std()
+	Standard deviation for magnitude of frequency domain body gyposcope signal
+
+fBodyBodyGyroJerkMag-mean()	
+	Mean value for magnitude of frequency domain Jerk body gyposcope signal
+
+fBodyBodyGyroJerkMag-std()
+	Standard deviation for magnitude of frequency domain Jerk body gyposcope signal
