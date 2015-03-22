@@ -11,7 +11,7 @@ Function goes through these steps:
   6. Select only the measurements on the mean and standard deviation
   7. Prepare tidy data set
 
-The output of function is tidy data set. 
+The output of function is tidy data set. Use Code_Book.txt to get description of the data variables.
 You can easily save result of running getCleanData() using  
 `write.table(getCleanData(), "tidyData.txt", row.names = FALSE)`
 
